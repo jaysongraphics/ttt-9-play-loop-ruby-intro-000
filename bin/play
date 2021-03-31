@@ -9,6 +9,4 @@ display_board(board)
 
 # Make sure to execute #play below
 
-play(turn)
-board(play)
-turn(play)
+play= turn_count
